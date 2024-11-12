@@ -10,5 +10,5 @@ This project was made on 22/12/2023 as the final project of my Text Processing c
   -Susy Susanty
 
 ## Demo Video
-<video src="assets/For%20TEXT%20Prepros.mp4" controls width="500"></video>
+<video src="For TEXT Prepros.mp4" controls width="500"></video>
 
