@@ -7,7 +7,6 @@ This project was made on 22/12/2023 as the final project of my Text Processing c
 ## the Process
 The pre-processing that is done is lower casing, normalization of the 
 labels, duplication correction, removing special characters and punctuation, normalizing whitespace, removing stopwords, lemmatization, and stemming. 
-whitespace, removing stopwords, lemmatization, and stemming.
 
 With the clean data, we perform feature extraction with tf-idf and word2vec,
 
