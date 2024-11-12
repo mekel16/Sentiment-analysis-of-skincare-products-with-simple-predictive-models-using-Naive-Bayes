@@ -9,7 +9,6 @@ This project was made on 22/12/2023 as the final project of my Text Processing c
   -Abdini Qolbi Sahlina (@abdiniqolbisahlina)
   -Susy Susanty
 
-
 ## Demo Video
 
 [Lihat Demo Video](assets/For%20TEXT%20Prepros.mp4)
